@@ -2,3 +2,4 @@ langchain
 huggingface
 huggingface_hub
 python-dotenv
+langchain.prompts
